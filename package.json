@@ -1,0 +1,16 @@
+{
+  "name": "date_facts",
+  "version": "1.0.0",
+  "description": "simple date and facts app",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashwinder",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  }
+}
